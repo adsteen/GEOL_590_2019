@@ -1,2 +1,3 @@
-# GEOL_590_2019
-Course repo for GEOL 490/590, Fall 2019
+# GEOL 490/590
+
+This is the course website for GEOL 490 and 590. More here soon.
